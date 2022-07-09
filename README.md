@@ -1,4 +1,4 @@
-- 👋 Hello
+- 👋 Hi
 - 📫 rananjay3516@gmail.com
 
 <!---
