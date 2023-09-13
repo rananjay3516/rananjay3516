@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi, my name is Rananjay and I like to write pretty code.
 - 📫 rananjay3516@gmail.com
 
 <!---
